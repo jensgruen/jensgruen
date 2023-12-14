@@ -1,6 +1,6 @@
 # Jens Grün
 
-![Hubble most famous picture!](/home/dci-student/IdeaProjects/jensgruen/rescources/GN-z11.jpg "Galaxy GN-z11")
+![Hubble most famous picture!](jensgruen/rescources/GN-z11.jpg "Galaxy GN-z11")
 
 
 
