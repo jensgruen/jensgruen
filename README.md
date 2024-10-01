@@ -2,7 +2,6 @@
 
 <!-- ![Hubble's most famous picture!](https://i.cbc.ca/1.3045522.1429799049!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/nasa-eagle-nebula-pillars-of-creation-jan-6-2015-hubble.jpg) -->
 
-<!-- img src="https://i.cbc.ca/1.3045522.1429799049!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/nasa-eagle-nebula-pillars-of-creation-jan-6-2015-hubble.jpg"  width="80%" height="100%" -->
 <img src="rescources/GN-z11.jpg" width="80%" height="100%">
 
 ### Hi there 👋
